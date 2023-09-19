@@ -5,7 +5,7 @@ No corpo da classe principal são declarados os métodos, que em outras linguage
 ````
 public class MinhaClasse {
 
-     Método principal. Aqui, são declaradas variáveis e etc
+    // Método principal. Aqui, são declaradas variáveis e etc
     public static void main (String [] args) {
 
          //***Estrutura e Sintaxe de Variáveis***
