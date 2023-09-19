@@ -1,5 +1,5 @@
 
-# DIO | Resumos GIT e GitHub.
+# DIO | Resumos do Bootcamp Santander - Back-end em Java.
 
 #### Repositório para armazenar resumos das aulas do Bootcamp Santander, da [Digital Inovation](https://dio.me).
 
