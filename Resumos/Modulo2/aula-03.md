@@ -1,6 +1,6 @@
 # 📌 Indentação
 
-Identação - - - >> Termo utilizado para escrever códigos de forma hierárquica.
+Indentação - - - >> Termo utilizado para escrever códigos de forma hierárquica. Indentar o código, faz com que ele fique mais organizado e fácil de entender.
 
 ````
 public class Indentacao {
