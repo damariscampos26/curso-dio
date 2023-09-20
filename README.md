@@ -17,7 +17,7 @@
 |[Aula 8]()|[Aula 8]()|[Aula 8]()|[Aula 8]()|[Aula 8]()|[Aula 8]()|
 |[Aula 9]()|[Aula 9]()|[Aula 9]()|[Aula 9]()|[Aula 9]()|[Aula 9]()|
 |[Aula 10]()|[Aula 10]()|[Aula 10]()|[Aula 10]()|[Aula 10]()|[Aula 10]()|
-||
+|
 
 
 ## 📚 Documentações Importantes 
