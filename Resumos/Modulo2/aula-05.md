@@ -25,4 +25,12 @@ Seguindo as convenções em linguagem de programação, toda variável é compos
 
 A estrutura padrão para se declarar uma variável, sempre é:
 
-<Tipo> <nomeVariável> <atribuicaoDeValorOpcional> 
+<Tipo> <nomeVariável> <atribuicaoDeValorOpcional>.
+
+# 📌 Constantes
+
+Constantes são valores armazenados em memória que não podem ser modificados depois de declarados.
+
+Em java, esses valores são representados pela palavra reservada ``final``, seguida do tipo.
+
+Ao declarar uma constante, seu nome deve ser escrito todo em CAIXA_ALTA, pois é isso que o diferencia de uma variável para uma constante.
