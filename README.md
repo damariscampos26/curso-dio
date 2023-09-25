@@ -22,8 +22,7 @@
 ## 📚 Documentações Importantes 
 - [Documentação Git](https://git-scm.com/doc).
 - [Documentação GitHub](https://docs.github.com).
-- [Documentação Java](https://docs.oracle.com/en/java/index.html).
-- [Documentação Java - Sintaxe](https://glysns.gitbook.io/java-basico/sintaxe/documentacao).
+- [Documentação Java Básico](https://glysns.gitbook.io/java-basico/sintaxe/documentacao).
 
 
 ## 🔍 Referências
