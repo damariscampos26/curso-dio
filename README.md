@@ -27,5 +27,6 @@
 
 ## 🔍 Referências
 [Digital Inovation One](https://dio.me).
+[Trilha Java Básico da DIO](https://github.com/digitalinnovationone/trilha-java-basico).
 
 
